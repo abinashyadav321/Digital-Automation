@@ -1,4 +1,6 @@
 Flight Telemetry & Fuel Consumption Analytics
+
+
 ✈️ Overview
 This project contains Python scripts designed to process, clean, and visualize commercial flight telemetry data. It focuses on analyzing flight profiles (Altitude vs. Ground Speed) and simulating a theoretical fuel burn model based on atmospheric density and aircraft performance parameters.
 
