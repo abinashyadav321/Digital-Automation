@@ -28,10 +28,16 @@ Matplotlib: For advanced, multi-axis telemetry visualization.
 Bash
 git clone https://github.com/yourusername/flight-telemetry-analytics.git
 cd flight-telemetry-analytics
+
+
+
 2. Install dependencies:
 
 Bash
 pip install -r requirements.txt
+
+
+
 3. Execute the scripts:
 Ensure the flight data CSV (RA205_3f63401c.csv) is in the root directory.
 
