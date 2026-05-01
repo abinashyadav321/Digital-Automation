@@ -26,7 +26,7 @@ Matplotlib: For advanced, multi-axis telemetry visualization.
 1. Clone the repository:
 
 Bash
-git clone https://github.com/yourusername/flight-telemetry-analytics.git
+git clone https://github.com/abinashyadav321/flight-telemetry-analytics.git
 cd flight-telemetry-analytics
 
 
